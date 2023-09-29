@@ -1,0 +1,2 @@
+Macht ein Video, welches nicht länger als 3 Sekunden dauert,
+in dem alle Gesichter der Personen in der Gruppe zu sehen sind.

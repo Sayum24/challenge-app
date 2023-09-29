@@ -1,0 +1,5 @@
+Eine Person steht in der Mitte mit den Händen an der Hüft. 4 andere Kinder stehen im Halbkreis
+vor der Person in der Mitte, diese Personen lassen jeweils 2 zwei kleine Steine von Schulterhöhe
+zu einer zufälligen Zeit fallen. Das Kind in der Mitte darf nur die Hände von seiner Hüfte entfernen,
+wenn ein Stein losgelassen wurde. Macht dies so lange bis das Kind in der Mitte mindestens 5 
+von den 8 Steinen gefangen hat. Das Kind in der Mitte darf gewechselt werden.

@@ -1,0 +1,2 @@
+Mindestens 1/3 der Gruppe muss ein Handy oder eine Stoppuhr blind nach 3 Sekunden stoppen,
+wobei die Abweichung von den exakten 3 Sekunden nicht mehr als 0,1 Sekunde betragen darf.
